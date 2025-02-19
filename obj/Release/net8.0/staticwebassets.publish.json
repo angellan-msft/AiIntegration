@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "iAjeu5yDwPpRUZ6T8Gvg7rxUEo5kEfIvD7VlV1jwUy8=",
+  "Source": "EchoBot",
+  "BasePath": "_content/EchoBot",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EchoBot\\wwwroot",
+      "Source": "EchoBot",
+      "ContentRoot": "C:\\Users\\angellan\\OpenAIIntegration\\PushToRemote\\ChatBot\\wwwroot\\",
+      "BasePath": "_content/EchoBot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\angellan\\OpenAIIntegration\\PushToRemote\\ChatBot\\wwwroot\\default.html",
+      "SourceId": "EchoBot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\angellan\\OpenAIIntegration\\PushToRemote\\ChatBot\\wwwroot\\",
+      "BasePath": "_content/EchoBot",
+      "RelativePath": "default#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ydpye0c7xr",
+      "Integrity": "+vxaZfgcGWSvAdd8Pafc+fdT+Bv4lsAxePBSU0clDnk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "default.html",
+      "AssetFile": "C:\\Users\\angellan\\OpenAIIntegration\\PushToRemote\\ChatBot\\wwwroot\\default.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19400"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+vxaZfgcGWSvAdd8Pafc+fdT+Bv4lsAxePBSU0clDnk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 18:00:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+vxaZfgcGWSvAdd8Pafc+fdT+Bv4lsAxePBSU0clDnk="
+        }
+      ]
+    },
+    {
+      "Route": "default.ydpye0c7xr.html",
+      "AssetFile": "C:\\Users\\angellan\\OpenAIIntegration\\PushToRemote\\ChatBot\\wwwroot\\default.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19400"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+vxaZfgcGWSvAdd8Pafc+fdT+Bv4lsAxePBSU0clDnk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 18:00:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ydpye0c7xr"
+        },
+        {
+          "Name": "label",
+          "Value": "default.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+vxaZfgcGWSvAdd8Pafc+fdT+Bv4lsAxePBSU0clDnk="
+        }
+      ]
+    }
+  ]
+}
