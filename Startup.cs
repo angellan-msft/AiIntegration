@@ -43,7 +43,7 @@ namespace ChatBot
             services.AddSingleton<IBotFrameworkHttpAdapter, AdapterWithErrorHandler>();
 
             // Create the bot as a transient. In this case the ASP Controller is expecting an IBot.
-            services.AddSingleton<IBot, EchoBot>();
+            services.AddSingleton<IBot, ChatBot.Bots.ChatBot>();
 
             services.AddLogging(loggingBuilder =>
             {

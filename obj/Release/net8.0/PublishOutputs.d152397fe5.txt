@@ -1,4 +1,4 @@
-C:\Users\angellan\OpenAIIntegration\PushToRemote\ChatBot\bin\Publish\EchoBot.exe
+C:\Users\angellan\OpenAIIntegration\PushToRemote\ChatBot\bin\Publish\ChatBot.exe
 C:\Users\angellan\OpenAIIntegration\PushToRemote\ChatBot\bin\Publish\appsettings.Development.json
 C:\Users\angellan\OpenAIIntegration\PushToRemote\ChatBot\bin\Publish\appsettings.json
 C:\Users\angellan\OpenAIIntegration\PushToRemote\ChatBot\bin\Publish\DeploymentTemplates\DeployUseExistResourceGroup\parameters-for-template-AzureBot-with-rg.json
@@ -17,10 +17,10 @@ C:\Users\angellan\OpenAIIntegration\PushToRemote\ChatBot\bin\Publish\DeploymentT
 C:\Users\angellan\OpenAIIntegration\PushToRemote\ChatBot\bin\Publish\DeploymentTemplates\Linux\deployWithNewResourceGroup\parameters-for-template-BotApp-new-rg.json
 C:\Users\angellan\OpenAIIntegration\PushToRemote\ChatBot\bin\Publish\DeploymentTemplates\Linux\deployWithNewResourceGroup\template-AzureBot-new-rg.json
 C:\Users\angellan\OpenAIIntegration\PushToRemote\ChatBot\bin\Publish\DeploymentTemplates\Linux\deployWithNewResourceGroup\template-BotApp-new-rg.json
-C:\Users\angellan\OpenAIIntegration\PushToRemote\ChatBot\bin\Publish\EchoBot.dll
-C:\Users\angellan\OpenAIIntegration\PushToRemote\ChatBot\bin\Publish\EchoBot.deps.json
-C:\Users\angellan\OpenAIIntegration\PushToRemote\ChatBot\bin\Publish\EchoBot.runtimeconfig.json
-C:\Users\angellan\OpenAIIntegration\PushToRemote\ChatBot\bin\Publish\EchoBot.pdb
+C:\Users\angellan\OpenAIIntegration\PushToRemote\ChatBot\bin\Publish\ChatBot.dll
+C:\Users\angellan\OpenAIIntegration\PushToRemote\ChatBot\bin\Publish\ChatBot.deps.json
+C:\Users\angellan\OpenAIIntegration\PushToRemote\ChatBot\bin\Publish\ChatBot.runtimeconfig.json
+C:\Users\angellan\OpenAIIntegration\PushToRemote\ChatBot\bin\Publish\ChatBot.pdb
 C:\Users\angellan\OpenAIIntegration\PushToRemote\ChatBot\bin\Publish\AdaptiveCards.dll
 C:\Users\angellan\OpenAIIntegration\PushToRemote\ChatBot\bin\Publish\Azure.AI.OpenAI.dll
 C:\Users\angellan\OpenAIIntegration\PushToRemote\ChatBot\bin\Publish\Azure.Core.dll

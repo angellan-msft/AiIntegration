@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SUAtkD3QADw=",
+  "dgSpecHash": "eEim0kN3Hgw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\angellan\\OpenAIIntegration\\PushToRemote\\ChatBot\\EchoBot.csproj",
+  "projectFilePath": "C:\\Users\\angellan\\OpenAIIntegration\\PushToRemote\\ChatBot\\ChatBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\angellan\\.nuget\\packages\\adaptivecards\\1.2.3\\adaptivecards.1.2.3.nupkg.sha512",
     "C:\\Users\\angellan\\.nuget\\packages\\azure.ai.openai\\2.1.0-beta.2\\azure.ai.openai.2.1.0-beta.2.nupkg.sha512",

@@ -177,3 +177,4 @@ C:\Users\angellan\OpenAIIntegration\PushToRemote\ChatBot\obj\Release\net8.0\refi
 C:\Users\angellan\OpenAIIntegration\PushToRemote\ChatBot\obj\Release\net8.0\EchoBot.pdb
 C:\Users\angellan\OpenAIIntegration\PushToRemote\ChatBot\obj\Release\net8.0\EchoBot.genruntimeconfig.cache
 C:\Users\angellan\OpenAIIntegration\PushToRemote\ChatBot\obj\Release\net8.0\ref\EchoBot.dll
+C:\Users\angellan\OpenAIIntegration\PushToRemote\ChatBot\obj\Release\net8.0\EchoBot.sourcelink.json

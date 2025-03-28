@@ -5,24 +5,24 @@
       "PackagePath": "staticwebassets\\default.html"
     },
     {
-      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.EchoBot.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.ChatBot.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
-      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.EchoBot.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.ChatBot.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.EchoBot.props",
-      "PackagePath": "build\\EchoBot.props"
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.ChatBot.props",
+      "PackagePath": "build\\ChatBot.props"
     },
     {
-      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EchoBot.props",
-      "PackagePath": "buildMultiTargeting\\EchoBot.props"
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ChatBot.props",
+      "PackagePath": "buildMultiTargeting\\ChatBot.props"
     },
     {
-      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.EchoBot.props",
-      "PackagePath": "buildTransitive\\EchoBot.props"
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.ChatBot.props",
+      "PackagePath": "buildTransitive\\ChatBot.props"
     }
   ],
   "ElementsToRemove": []

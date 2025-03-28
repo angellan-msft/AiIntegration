@@ -18,6 +18,11 @@ namespace ChatBot.SemanticKernel
         public OrderManagementPlugin()
         {
             // Sample Data
+            // The data is currently hardcoded in this class for demonstration purposes.
+            // In a real-world scenario, Contoso can choose their preferred data source 
+            // (e.g., CRM, CosmosDB, File System) and implement the appropriate data access 
+            // logic in the corresponding methods.
+            
             _orders = new List<Order>
             {
                 new Order { UserId = 110, OrderId = "ORD001", ProductName = "Laptop", Status = "The order has left the warehouse and is on its way to the customer", ShippedDate = "2024-12-01", EstimatedDeliveryDate = "2024-12-10" },

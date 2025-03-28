@@ -5081,9 +5081,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\angellan\\OpenAIIntegration\\PushToRemote\\ChatBot\\EchoBot.csproj",
-      "projectName": "EchoBot",
-      "projectPath": "C:\\Users\\angellan\\OpenAIIntegration\\PushToRemote\\ChatBot\\EchoBot.csproj",
+      "projectUniqueName": "C:\\Users\\angellan\\OpenAIIntegration\\PushToRemote\\ChatBot\\ChatBot.csproj",
+      "projectName": "ChatBot",
+      "projectPath": "C:\\Users\\angellan\\OpenAIIntegration\\PushToRemote\\ChatBot\\ChatBot.csproj",
       "packagesPath": "C:\\Users\\angellan\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\angellan\\OpenAIIntegration\\PushToRemote\\ChatBot\\obj\\",
       "projectStyle": "PackageReference",
@@ -5121,7 +5121,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -5167,7 +5167,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
